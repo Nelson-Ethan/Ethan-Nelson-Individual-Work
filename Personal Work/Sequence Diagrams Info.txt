@@ -1,0 +1,18 @@
+SEQUENCE DIAGRAMS INFO - ETHAN NELSON
+
+DEFINITION:UML sequence diagrams are used to show how objects interact 
+in a given situation. An important characteristic of a sequence diagram 
+is that time passes from top to bottom : the interaction starts near the 
+top of the diagram and ends at the bottom
+
+
+
+
+A FEW SOURCES FOR UML SEQUENCE DIAGRAMS
+
+
+http://www.uml-diagrams.org/sequence-diagrams.html#execution
+
+http://en.wikipedia.org/wiki/Sequence_diagram
+
+http://www.tracemodeler.com/articles/a_quick_introduction_to_uml_sequence_diagrams/
