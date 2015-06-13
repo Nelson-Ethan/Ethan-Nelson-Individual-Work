@@ -1,0 +1,41 @@
+PORTFOLIO DOCUMENT 6-13-15
+Ethan Nelson
+
+NEW TOPICS INFO-
+
+JUnit - just added a teaching video
+UML USE CASE DIAGRAM / DOCUMENT - info document, my own designed app with diagram and document
+UML CLASS DIAGRAM - info doc, teaching video
+UML STATE DIAGRAMS - info doc
+Threads, Executors, Runnables, Android Handlers - sharing video, info doc, code
+
+
+TEACHING VIDEOS
+Most of these topics have been presented on and my group members seemed bored so I tried to present on one
+or two things that were confusing or they hadn't heard of in these topics.
+
+JUNIT
+https://youtu.be/IqBTJUa-uZk?t=2287
+end 43:10
+
+
+UML CASE DIAGRAM /DOCUMENT
+https://youtu.be/IqBTJUa-uZk?t=842
+ends about 16:50
+
+
+UML CLASS DIAGRAM
+https://youtu.be/IqBTJUa-uZk?t=1016
+ends about 18:40
+
+
+
+SHARING VIDEO- Threads, Executors, Runnables, Android Handlers
+https://www.youtube.com/watch?v=8lknVCy1I4E
+
+
+
+
+
+
+
