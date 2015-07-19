@@ -1,0 +1,27 @@
+TEACHING VIDEOS
+
+JUNIT
+https://youtu.be/IqBTJUa-uZk?t=2287
+end 43:10
+
+UML DIAGRAMS
+https://youtu.be/-8zBXyk8PuI?t=1486
+
+
+UML CASE DIAGRAM /DOCUMENT
+https://youtu.be/IqBTJUa-uZk?t=842
+ends about 16:50
+
+
+UML CLASS DIAGRAM
+https://youtu.be/IqBTJUa-uZk?t=1016
+ends about 18:40
+
+MVC
+https://youtu.be/gk5bF4hdB6g?t=1487
+ends about 26:10
+
+
+
+SHARING VIDEO- Threads, Executors, Runnables, Android Handlers
+https://www.youtube.com/watch?v=8lknVCy1I4E
